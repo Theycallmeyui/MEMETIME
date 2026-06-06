@@ -28,37 +28,58 @@ Webcam
 본 프로젝트는 다음과 같은 행동 및 표정을 인식한다.
 
 4.1 No Pose - 사용자가 특별한 행동을 하지 않을 경우 기본 상태로 인식한다.
+
 출력 이미지:
+![No Pose](memes/no_pose/confused_math.jpg)
 
 4.2 Peace Sign - 검지와 중지를 펴고 나머지 손가락을 접은 상태를 인식한다.
+
 출력 이미지:
+![Peace](memes/peace/peace_hamster.jpg)
 
 4.3 Finger Heart -  손가락 하트를 인식한다.
+
 출력 이미지:
+![Finger Heart](memes/finger_heart/monkey.jpg)
 
 4.4 Thumbs Up - 엄지가 위를 향하고 나머지 손가락이 접힌 상태를 인식한다.
+
 출력 이미지:
+![Finger Heart](memes/thumbs_up/hamster.jpg)
 
 4.5 Hold On - 손바닥을 펼친 상태를 인식한다.
+
 출력 이미지:
+![stop_hand](memes/stop_hand/hold_on_please.jpg)
 
 4.6 Big Smile - 입의 가로 길이와 세로 길이 비율을 이용하여 웃는 표정을 인식한다.
+
 출력 이미지:
+![Smile](memes/smile/Hamster.jpg)
 
 4.7 Mouth Open - 입을 크게 벌린 상태를 인식한다.
 출력 이미지:
+![Questioning](memes/questioning/questioning.jpg)
 
 4.8 Smirk - 좌우 입꼬리 높이 차이를 이용하여 비웃는 표정을 인식한다.
+
 출력 이미지:
+![Smirk](memes/smirk/smirk.jpg)
 
 4.9 Me? - 사용자가 자신의 가슴을 손가락으로 가리키는 동작을 인식한다.
+
 출력 이미지:
+![Me](memes/me/me.jpg)
 
 4.10 Finger Bite - 손가락이 입 근처에 위치하는 경우를 인식한다.
+
 출력 이미지:
+![Finger Bite](memes/finger_bite/finger_bite.jpg)
 
 4.11 Stressed - 손이 이마에 가까이 위치하는 경우를 인식한다.
+
 출력 이미지:
+![Stressed](memes/stressed/stressed.jpg)
 
 ---
 
